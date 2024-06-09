@@ -16,4 +16,4 @@ I then created a dashboard for my analysis by cutting each chart from the excel 
 From the power pivot, I was able to calculate the total sales made within the three months.
 I also highlighted the most and least ordered items, the most ordered cuisine and the most expensive item sold in the restaurant.
 I then gave an insight of my analysis.
-<img width="513" alt="Kofs2" src="https://github.com/Kofoworola14/My-second-Excel-project/assets/168651782/60bd9068-6019-43d3-9eab-cc8d73bad7e9">
+<img width="513" alt="Kofs2" src="https://github.com/Kofoworola14/My-second-Excel-project/assets/168651782/9f4b63c1-d084-43f6-b789-03059e43167e">
