@@ -34,7 +34,7 @@ In this step we will build the Pivot tables and charts to be used in the dashboa
 4.	Two pie charts for the order items by month and category.
 You can obviously choose different data and different charts to visualize, I only visualized based on the questions in the playground and also based on the data I find worthy.
 To create each of the pivot tables from the data, click on any cell in the table, go to ‘Insert’, click Pivot table then click ‘From Data Model’ since the data was edited in power query.<img width="878" alt="pivot" src="https://github.com/Kofoworola14/My-second-Excel-project/assets/168651782/1d15cea0-af26-49ef-b3d4-e40fb2c8ccfe">
- You will be asked to select a location, then this appears:<img width="957" alt="pivot2" src="https://github.com/Kofoworola14/My-second-Excel-project/assets/168651782/83683b4b-a095-4b87-87b8-e99ffe669e9f"> 
+You will be asked to select a location, then this appears:<img width="957" alt="pivot2" src="https://github.com/Kofoworola14/My-second-Excel-project/assets/168651782/83683b4b-a095-4b87-87b8-e99ffe669e9f"> 
 To create each pivot table, drag any option of your choice from either the menu items or order details into the ‘values’ or ‘rows’ box. Next is to create the chart. Click on any cell from the pivot table and click on Pivot Chart on the right. In the pivot chart, you can click on any chart of your choice depending on the data you are to visualize.
 Step 4: Building the Dashboard!
 You can decide to use an online dashboard or create a dashboard on Excel. I mostly create my dashboards on Excel and trust me it’s so much fun.
